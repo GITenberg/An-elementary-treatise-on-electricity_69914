@@ -1,0 +1,32 @@
+_repo: An-elementary-treatise-on-electricity_69914
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maxwell, James Clerk
+    aliases:
+    - Maxwell, J. Clerk (James Clerk)
+    - Maxwell, J. C. (James Clerk)
+    birthdate: 1831
+    deathdate: 1879
+    gutenberg_agent_id: '1586'
+    url: http://www.gutenberg.org/2009/agents/1586
+    wikipedia: https://en.wikipedia.org/wiki/James_Clerk_Maxwell
+description: ''
+gutenberg_issued: '2023-01-31'
+identifiers:
+  gutenberg: '69914'
+language: en
+pgterms:marc904: https://archive.org/details/elementarytreati00maxw_0
+pgterms:marc905: 20201125043015maxwell
+pgterms:marc906: '1888'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United Kingdom: The Clarendon press,1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: An elementary treatise on electricity
+url: http://www.gutenberg.org/ebooks/69914
